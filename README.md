@@ -39,4 +39,6 @@
      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
 </p>
+  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Get_Racced&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </div>
