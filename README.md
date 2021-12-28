@@ -41,4 +41,13 @@
 </p>
   
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Get_Racced&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+ 
+  
+  <h2 align="center"> 📫 Reach me on</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/manan-patel-492295229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee"</a> 
+    <a href="mailto:mananpatel1914@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://discordapp.com/users/482970753281687552/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+   
+</p>
 </div>
