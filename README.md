@@ -41,6 +41,8 @@
 </p>
   
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Get_Racced&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MananPatel-1&label=Profile%20views&color=0e75b6&style=flat" alt="MananPatel-1" /> </p>
+
  
   
   <h2 align="center"> 📫 Reach me on</h2>
